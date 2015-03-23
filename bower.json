@@ -1,11 +1,11 @@
 {
-  "name": "buttons",
-  "version": "0.2.10",
-  "homepage": "https://github.com/tef-components/buttons",
+  "name": "checkboxes",
+  "version": "0.2.1",
+  "homepage": "https://github.com/tef-components/checkboxes",
   "authors": [
     "the TEF components team"
   ],
-  "description": "TEF components - buttons",
+  "description": "TEF components - checkboxes",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
