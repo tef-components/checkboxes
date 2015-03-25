@@ -1,3 +1,3 @@
-# TEF buttons
+# TEF checkboxes
 
-Preview all buttons: [http://tef-components.github.io/buttons/index.html](http://tef-components.github.io/buttons/index.html)
+Preview all checkboxes: [http://tef-components.github.io/checkboxes/index.html](http://tef-components.github.io/checkboxes/index.html)
